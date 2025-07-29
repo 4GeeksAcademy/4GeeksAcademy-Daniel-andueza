@@ -9,8 +9,8 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Daniel
+    last_name: Andueza
     
     # Define yourself in 4-5 words
     motto: I like saving the world
@@ -20,20 +20,20 @@ basic_info:
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Profesional en Administración de Empresas y Desarrollador Full Stack con una sólida combinación de pensamiento estratégico y habilidades técnicas. Experiencia liderando proyectos colaborativos, optimizando procesos digitales y construyendo soluciones escalables orientadas al usuario.
 
-      Second paragraph if required.
-    
+      Me apasiona resolver problemas complejos, trabajar en equipo y conectar el mundo del negocio con la tecnología de forma efectiva. Siempre
+      en búsqueda de desafíos que impulsen la innovación y generen impacto real.
+
+      Cuento con un diplomado en Emprendimiento Social y Gobernabilidad, lo que refuerza mi compromiso con el desarrollo sostenible, el liderazgo ético y la generación de valor con propósito.
+          
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://ibb.co/TqTSsVZt
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
+    email: daniel00andueza@gmail.com #optional
+    phone: 627 937 392 #optional
     website: asd.com #optional
     linkedin: alandoe #optional
     
@@ -48,159 +48,114 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Viajar.
 
-      - item: Snowboarding
+      - item: Pasar tiempo con amigos y familia.
 
-      - item: Cooking
+      - item: Ver series.
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  - degree: Administrador de Empresas (en proceso de homologación)
+    university: Fundación Universitaria CEIPA
+    university_logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_CEIPA.svg/512px-Logo_CEIPA.svg.png
+    time: 2020 - Presente
+    details: |
+      Formación orientada a la gestión empresarial con énfasis en administración estratégica, procesos organizacionales, y toma de decisiones. En proceso de homologación en España.
 
-          - Bullet point
-          - Bullet point
+        - Desarrollo de habilidades en liderazgo y gestión de proyectos.
+        - Enfoque en mejora continua y optimización de procesos.
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  - degree: Análisis y Desarrollo de Sistemas de Información (en proceso de homologación)
+    university: SENA - Servicio Nacional de Aprendizaje
+    university_logo: https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_SENA_Colombia.png
+    time: 2019
+    details: |
+      Programa técnico enfocado en el diseño, desarrollo y mantenimiento de sistemas de información. Adquisición de competencias en lógica de programación, análisis de requerimientos y herramientas de desarrollo.
 
-          - Bullet point
-          - Bullet point
+        - Formación técnica con orientación a soluciones digitales.
+        - Proyectos aplicados y trabajo en equipo multidisciplinario.
 
 # Your previous job experiences or volunteer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+  - role: Director de Proyectos
+    time: Enero 2022 - Junio 2023
+    company: Soluciones Oryhel S.A.S, Barranquilla - Colombia
+    company_logo: https://upload.wikimedia.org/wikipedia/commons/9/9a/Briefcase_font_awesome.svg
+    details: |
+      Responsable de la gestión integral de proyectos, supervisando la ejecución, presupuesto y coordinación del personal involucrado. Enlace directo con los clientes para garantizar el cumplimiento de los objetivos y la satisfacción del servicio.
 
-          - Bullet point
-          - Bullet point
+        - Administración de proyectos y control presupuestario.
+        - Coordinación de tareas y equipos de trabajo.
+        - Atención directa al cliente y resolución de necesidades operativas.
+        - Seguimiento y control del avance de los proyectos asignados.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  - role: Encargado de Obra
+    time: Enero 2021 - Julio 2021
+    company: Dimetal L.T.D.A, Barranquilla - Colombia
+    company_logo: https://upload.wikimedia.org/wikipedia/commons/3/30/Construction_font_awesome.svg
+    details: |
+      Supervisión de las obras asignadas, asegurando la correcta ejecución de los procesos en campo. Coordinación del personal y control de almacén e inventarios.
 
-          - Bullet point
-          - Bullet point
+        - Gestión del personal en obra y supervisión operativa.
+        - Control de almacén y caja menor.
+        - Manejo de inventarios y recursos materiales.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  - role: Band Leader de Producción
+    time: Abril 2024 - Noviembre 2024
+    company: Marginpar, Países Bajos
+    company_logo: https://upload.wikimedia.org/wikipedia/commons/f/f3/Seedling_font_awesome.svg
+    details: |
+      Liderazgo en la línea de producción en una empresa internacional del sector floricultor. Coordinación de equipos de trabajo para cumplir objetivos diarios de calidad y rendimiento en entornos de alta demanda.
 
-          - Bullet point
-          - Bullet point
+        - Supervisión directa de operarios en la cadena de producción floral.
+        - Aseguramiento de estándares de calidad y cumplimiento de tiempos.
+        - Comunicación continua con supervisores y mejora de procesos operativos.
+
 
 # Your project portfolio
 projects:
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  intro: >
+    Aquí incluyo algunos proyectos personales y colaborativos que he desarrollado o en los que he participado, combinando habilidades administrativas, técnicas y de liderazgo.
 
-    assignments:
-      - title: Velocity
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  assignments:
+    - title: Control de Inventarios Digital
+      project_logo: https://upload.wikimedia.org/wikipedia/commons/2/25/Database_font_awesome.svg
+      link: "#"
+      tagline: "Sistema básico de control de inventarios usando Excel avanzado y macros, implementado en obra para optimizar recursos y reducir pérdidas."
 
-      - title: DevStudio
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Gestión de Proyectos con Excel
+      project_logo: https://upload.wikimedia.org/wikipedia/commons/4/47/Project-diagram_font_awesome.svg
+      link: "#"
+      tagline: "Plantilla avanzada de seguimiento de proyectos con control de tareas, presupuesto y cronogramas, utilizada en Soluciones Oryhel S.A.S."
 
-      - title: Tempo
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Página Personal en HTML/CSS (en desarrollo)
+      project_logo: https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
+      link: "#"
+      tagline: "Sitio web personal creado como parte de mi aprendizaje en desarrollo web, incluye resumen profesional, contacto y portafolio."
 
 skills:
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: JavaScript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+  toolset:
+    - name: Microsoft Office (Excel, Word, PowerPoint)
+      level: 95%
+    - name: Gestión de Proyectos
+      level: 90%
+    - name: Herramientas Informáticas y Digitales
+      level: 90%
+    - name: Comunicación y Trabajo en Equipo
+      level: 90%
+    - name: Resolución de Problemas
+      level: 85%
+    - name: Adaptabilidad y Aprendizaje Rápido
+      level: 85%
+    - name: Control de Inventarios y Almacén
+      level: 80%
+    - name: HTML, CSS y JavaScript (en aprendizaje)
+      level: 40%
